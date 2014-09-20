@@ -3,7 +3,7 @@
 /**
  * La clase java.lang.Math provee varios metodos para trabajar con tipo de datos numericos
  */
-public class TestMathClass {
+public class ClaseMath {
     public static void main(String[] args) {
 
         /**

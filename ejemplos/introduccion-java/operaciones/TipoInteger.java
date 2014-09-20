@@ -3,7 +3,7 @@
  * La clase Integer es una clase de ayuda para la clase int y que nos permite trabajar con los demas tipos de datos 
  * primitivos en java
  */
-public class TestIntegerClass {
+public class TipoInteger {
     public static void main(String[] args) {
         
         /**

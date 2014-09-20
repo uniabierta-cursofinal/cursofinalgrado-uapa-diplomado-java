@@ -2,7 +2,7 @@
 
 import java.math.BigDecimal;
 
-public class TestBigDecimal {
+public class TipoBigDecimal {
     public static void main(String[] args) {
 
         /**
