@@ -46,6 +46,7 @@ public abstract class Product {
         this.price = price;
     }
     
+    @Override
     public String toString(){
         return "Code:         "+ code +" \n"+
                 "Descripcion :"+ description +" \n"+

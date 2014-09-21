@@ -6,6 +6,6 @@ package poo.java.basico.interfaces;
  */
 public interface Printable {
     
-    public abstract void print();
+    void print();
     
 }
