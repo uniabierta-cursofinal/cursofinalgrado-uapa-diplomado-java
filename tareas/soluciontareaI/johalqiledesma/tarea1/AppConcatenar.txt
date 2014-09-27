@@ -1,0 +1,20 @@
+public class hola uapa{ 
+public static void main (string[]args){
+system.out.println("HOLA UAPA");
+}
+}
+------------------------------------------------------------------------------
+
+public class parametroMetodoMain {
+
+public static void main(string[] args){
+
+system.out.println ("............parametroMetodoMain...............");
+
+string parametro = args[0];
+
+system.out.println("valor pasado como parametro:"+args[0]):
+
+}
+
+}  
