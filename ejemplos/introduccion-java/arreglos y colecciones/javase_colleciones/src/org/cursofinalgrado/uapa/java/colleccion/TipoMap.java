@@ -7,7 +7,7 @@ public class TipoMap {
     public static void main(String[] args) {
        
        
-        Map<String,Integer> nota = new HashMap<String,Integer>();
+        Map<String,Integer> nota = new HashMap<>();
         
         nota.put("Richard Reinoso", 80);
         nota.put("Martin Jaquez",60);

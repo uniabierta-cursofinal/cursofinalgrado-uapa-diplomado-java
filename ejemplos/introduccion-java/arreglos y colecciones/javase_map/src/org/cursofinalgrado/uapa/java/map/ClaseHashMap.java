@@ -15,7 +15,7 @@ import java.util.Map;
 public class ClaseHashMap {
 
     public static void main(String[] args) {
-        HashMap<String, String> libros = new HashMap<String, String>();
+        HashMap<String, String> libros = new HashMap<>();
         libros.put("principito", "El Principito");
         libros.put("gaviota", "Juan Salvador Gaviota");
 

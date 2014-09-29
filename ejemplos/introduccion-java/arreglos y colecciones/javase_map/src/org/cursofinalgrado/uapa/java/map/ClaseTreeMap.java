@@ -17,7 +17,7 @@ import java.util.TreeMap;
 public class ClaseTreeMap {
     public static void main(String[] args) {
         
-        TreeMap<String, String> libros = new TreeMap<String, String>();
+        Map<String, String> libros = new TreeMap<>();
           libros.put("principito", "El Principito");
         libros.put("gaviota", "Juan Salvador Gaviota");
 

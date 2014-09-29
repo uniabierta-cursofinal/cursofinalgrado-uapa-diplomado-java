@@ -3,14 +3,20 @@ package org.cursofinalgrado.uapa.java.colleccion;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
+/**
+ * 
+ * @author ecabrerar
+ * @date Sat Sep 27 17:29:38 AST 2014
+ * @since 1.0
+ * @see ArrayList
+ */
 public class ClaseArrayList {
 
     public static void main(String[] args) {
 
-        ArrayList<String> libros = new ArrayList<String>();
-        libros.add("");
-        libros.add("");
+        List<String> libros = new ArrayList<>();
+        libros.add("El Principito");
+        libros.add("El coronel no tiene quien le escriba");
 
         for (int i = 0; i < libros.size(); i++) {
             System.out.println(" Bucle For Tradicional " + libros.get(i));
@@ -22,7 +28,7 @@ public class ClaseArrayList {
 
         }
 
-        ArrayList<Integer> enteros = new ArrayList<Integer>();
+        ArrayList<Integer> enteros = new ArrayList<>();
         enteros.add(1);
         enteros.add(15);
         enteros.add(32);
@@ -34,7 +40,7 @@ public class ClaseArrayList {
 
         }
 
-        ArrayList<Product> productos = new ArrayList<Product>();
+        ArrayList<Product> productos = new ArrayList<>();
 
         Product p = new Product();
         p.setCode("LB15");

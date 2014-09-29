@@ -6,6 +6,10 @@ public class Product {
     private double precio;
 
 
+    /**
+     * 
+     * @return 
+     */
     public String getCode() {
         return code;
     }
