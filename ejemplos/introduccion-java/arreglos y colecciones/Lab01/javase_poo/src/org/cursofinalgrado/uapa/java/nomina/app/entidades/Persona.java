@@ -3,6 +3,7 @@ package org.cursofinalgrado.uapa.java.nomina.app.entidades;
 import java.util.Date;
 
 public abstract class Persona {
+
     private String nombre;
     private String noEmpleado;
     private String cedula;
@@ -19,7 +20,7 @@ public abstract class Persona {
      * @param fecha_Nacimiento
      */
     public Persona(String nombre, String noEmpleado, String cedula, String direccion, String telefono,
-                   Date fecha_Nacimiento) {
+            Date fecha_Nacimiento) {
         super();
         this.nombre = nombre;
         this.noEmpleado = noEmpleado;
@@ -29,9 +30,9 @@ public abstract class Persona {
         this.fecha_Nacimiento = fecha_Nacimiento;
     }
 
-    public Persona(){
-        
-    }     
+    public Persona() {
+
+    }
 
     public String getNombre() {
         return nombre;
@@ -77,17 +78,27 @@ public abstract class Persona {
      * @return
      */
     @Override
-    public String toString(){
-        return  "Nombre: "+nombre +" \n"
-               +"No. Empleado: "+ noEmpleado +" \n"
-               + "Cedula: " +cedula + " \n"
-               + "Dirección: " +direccion + " \n"
-               + "Telefono: "+telefono+ " \n"
-               + "Fecha Nacimiento "+fecha_Nacimiento +  " \n";
+    public String toString() {
+        StringBuilder mensaje = new StringBuilder(65)
+                .append("Nombre: ").append(nombre)
+                .append(" \n")
+                .append("No. Empleado: ").append(noEmpleado)
+                .append(" \n")
+                .append("Cedula: ").append(cedula)
+                .append(" \n")
+                .append("Dirección: ").append(direccion)
+                .append(" \n")
+                .append("Telefono: ").append(telefono)
+                .append(" \n")
+                .append("Fecha Nacimiento ").append(fecha_Nacimiento)
+                .append(" \n");
+
+        return mensaje.toString();
     }
 
     /**
      * Imprimir informacion del objeto.
+     *
      * @return
      */
     public abstract String imprimirDatos();

@@ -1,9 +1,10 @@
 package org.cursofinalgrado.uapa.java.nomina.app.frontend;
 
 
+
+
 import java.util.ArrayList;
 import java.util.List;
-
 import org.cursofinalgrado.uapa.java.nomina.app.entidades.Consultor;
 import org.cursofinalgrado.uapa.java.nomina.app.entidades.Empleado;
 import org.cursofinalgrado.uapa.java.nomina.app.entidades.Posicion;
@@ -63,7 +64,7 @@ public class MainApp {
         
         //TODO: crear nuevos objetos y agregarlo a la lista de Consutores
         
-        List<Consultor> consultores = new ArrayList<Consultor>();
+        List<Consultor> consultores = new ArrayList<>();
         consultores.add(consultor1);        
         
         MainApp mainApp = new MainApp();

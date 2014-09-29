@@ -13,6 +13,16 @@
             <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/tareas/tareaII/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/interfaces/TarifaHoraDB.java</file>
             <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/tareas/tareaII/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/utilidades/FormatearFecha.java</file>
         </group>
-        <group name="demo"/>
+        <group name="demo">
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/entidades/Consultor.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/entidades/Empleado.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/entidades/Posicion.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/interfaces/Sueldo.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/interfaces/SueldoFijo.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/interfaces/TarifaHoraDB.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/utilidades/FormatearFecha.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/frontend/MainApp.java</file>
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/introduccion-java/arreglos%20y%20colecciones/Lab01/javase_poo/src/org/cursofinalgrado/uapa/java/nomina/app/entidades/Persona.java</file>
+        </group>
     </open-files>
 </project-private>
