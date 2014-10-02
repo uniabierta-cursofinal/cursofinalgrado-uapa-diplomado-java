@@ -7,13 +7,13 @@ public class Sedan extends Carro {
     public Sedan(int puertas, int cantvelocidad, double precioRegular, String color) {
         super(cantvelocidad, precioRegular, color);
         this.longitud = puertas;
-    } 
-  
+    }
+
     @Override
     public double getPrecioVenta() {
-        if(getLongitud() > 20){
+        if (getLongitud() > 20) {
             return (super.getPrecioRegular() - (super.getPrecioRegular() * 0.05));
-        }else{
+        } else {
             return (super.getPrecioRegular() - (super.getPrecioRegular() * 0.10));
         }
     }
