@@ -1,0 +1,6 @@
+Celular,Nokia,208 Rojo,120 MB,2.4 Pulgadas (240x320 pixels),Físico,15-07-2013
+Celular,Acatel,OneTouch 3075 A Gris,64 MB,2 Pulgadas (220x176 pixels),Físico,01-12-2013
+Smart,Apple,iPhone 5S,64 GB,4 Pulgadas (640x1136 pixels),Virtual,01-09-2013,wifi,band2G,band3G,pantallaMulti,GPS
+Tableta,Samsung,Galaxy Tab S,32 GB,10.5 Pulgadas (2560x1600 pixels),Virtual,01-07-2014,Android OS,band3G,pantallaMulti,wifi
+Smart,HTC,One M8,32 GB,5 Pulgadas (1080x1920 pixels),Virtual,01-03-2014,microSD 128 GB,wifi,band2G,band3G,pantallaMulti,GPS
+Esta línea no debe procesarse!
