@@ -15,7 +15,7 @@ public class NumerosMagicos {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 23;
-        int num3 = 5;
+        int num3 = 12;
         int min = 0;
 
         String mensaje = "";

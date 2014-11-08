@@ -13,9 +13,9 @@ package org.cursofinalgrado.uapajava.java;
  */
 public class NumerosMagicos {
     public static void main(String[] args) {
-        int num1 = 10;
+        int num1 = 2;
         int num2 = 23;
-        int num3 = 5;
+        int num3 = 7;
         int min = 0;
 
         String mensaje = "";

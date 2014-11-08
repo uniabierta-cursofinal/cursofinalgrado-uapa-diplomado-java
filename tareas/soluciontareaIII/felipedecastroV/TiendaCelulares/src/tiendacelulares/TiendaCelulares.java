@@ -16,7 +16,7 @@ import java.util.InputMismatchException;
  * @author fdc500
  */
 public class TiendaCelulares {
-    private static final String NOMBREARCHIVO = "/Users/fdc500/Documents/workspace/TiendaCelulares/src/DatosCelulares.txt"; //
+    private static final String NOMBREARCHIVO = "/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/tareas/soluciontareaIII/felipedecastroV/TiendaCelulares/src/DatosCelulares.txt"; //
     private ArrayList<Celular> cel;
     private Tableta[] tab;
     private SmartPhone[] smart;
