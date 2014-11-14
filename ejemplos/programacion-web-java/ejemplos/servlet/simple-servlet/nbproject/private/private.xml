@@ -5,5 +5,6 @@
         <group name="demo">
             <file>file:/home/ecabrerar/proyectos/workspaces/labs/taller-desarrollo-web-java/ejemplos/servlet/simple-servlet/web/WEB-INF/web.xml</file>
         </group>
+        <group name="UAPA"/>
     </open-files>
 </project-private>

@@ -1,8 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <%@ page contentType="text/html;charset=UTF-8"%>
 <%@ page import="java.util.List"%>
-<%@ page import="org.ecabrerar.examples.jsp.datamanager.ModeloUsuario"%>
-<%@ page import="org.ecabrerar.examples.jsp.entidades.Usuario"%>
+<%@ page import="org.cursofinalgrado.uapa.java.jsp.modelo.ModeloUsuario"%>
+<%@ page import="org.cursofinalgrado.uapa.java.jsp.entidades.Usuario"%>
 
 <%
 ModeloUsuario modelo = new ModeloUsuario();
