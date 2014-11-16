@@ -5,6 +5,8 @@
         <group name="demo">
             <file>file:/home/ecabrerar/proyectos/workspaces/labs/taller-desarrollo-web-java/ejemplos/servlet/simple-servlet/web/WEB-INF/web.xml</file>
         </group>
-        <group name="UAPA"/>
+        <group name="UAPA">
+            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/programacion-web-java/ejemplos/servlet/simple-servlet/web/WEB-INF/web.xml</file>
+        </group>
     </open-files>
 </project-private>
