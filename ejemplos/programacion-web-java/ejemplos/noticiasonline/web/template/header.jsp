@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Dashboard Template for Bootstrap</title>
+    <title>Noticias Online</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -68,7 +68,7 @@
           </ul>
           <ul class="nav nav-sidebar">
             <li><a href="categoria.jsp">Categorias</a></li>
-            <li><a href="">Nav item again</a></li>
+            <li><a href="ciudad.jsp">Ciudades</a></li>
             <li><a href="">One more nav</a></li>
             <li><a href="">Another nav item</a></li>
             <li><a href="">More navigation</a></li>

@@ -7,9 +7,17 @@
         <servlet-name>CategoriaController</servlet-name>
         <servlet-class>org.cursofinalgrado.uapa.java.controller.CategoriaController</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>CiudadController</servlet-name>
+        <servlet-class>org.cursofinalgrado.uapa.java.controller.CiudadController</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>CategoriaController</servlet-name>
         <url-pattern>/CategoriaController</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>CiudadController</servlet-name>
+        <url-pattern>/CiudadController</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
