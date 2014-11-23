@@ -7,8 +7,6 @@
             <file>file:/home/ecabrerar/proyectos/workspaces/labs/taller-desarrollo-web-java/ejemplos/jsp/jsp-jdbc/web/WEB-INF/web.xml</file>
         </group>
         <group name="UAPA">
-            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/programacion-web-java/ejemplos/jsp/jsp-jdbc/src/java/org/cursofinalgrado/uapa/java/jsp/modelo/ModeloUsuario.java</file>
-            <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/programacion-web-java/ejemplos/jsp/jsp-jdbc/src/java/org/cursofinalgrado/uapa/java/jsp/modelo/Coneccion.java</file>
             <file>file:/home/ecabrerar/NetBeansProjects/cursofinalgrado-uapa-diplomado-java/ejemplos/programacion-web-java/ejemplos/jsp/jsp-jdbc/web/ListUsuarios.jsp</file>
         </group>
     </open-files>
